@@ -1,9 +1,10 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://https://github.com/Manishsingh8135)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)](https://github.com/Manishsingh8135)
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
 <h3 align="center">A passionate developer and derivative trader</h3>
-
-<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/EbZAp_oLAcYAAAAC/astronaut.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/HaD1.gif">
  -->
+- 🔭 I’m currently working on **a chrome extension**
+
 - 📫 How to reach me **manishhsingh928@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
